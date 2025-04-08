@@ -1,18 +1,22 @@
-Descripter
+# Descripter
+
 Descripter is a Python tool for extracting and organizing character dialogue from movie script PDFs. It parses movie scripts to identify character names and their corresponding dialogue, then outputs the data in a structured format.
 
-Features
-Extract character names from screenplay PDFs
-Organize dialogue by character
-Generate readable text output of dialogue
+# Features
 
-Known Issues:
+- Extract character names from screenplay PDFs
+- Organize dialogue by character
+- Generate readable text output of dialogue
+
+# Known Issues:
 
 - Does not account for moments when two people are speaking at once.
 - Pages from Knives Out are not documented and an error appears:
   "CropBox missing from /Page, defaulting to MediaBox".
 - Dialogue appears to only be the first line on each dialogue block.
 - Movie scripts are an initial guide for actors to follow. These lines are not exactly what is said in each movie.
+
+# Project Structure
 
 ```text
 descripter/
@@ -45,6 +49,7 @@ Installation
    ```
 
 Usage
+
 Process a movie script
 
 ```text
