@@ -1,0 +1,947 @@
+MOVIE SCRIPT CHARACTER DIALOGUE
+=============================
+
+CHARACTER: ALAN
+----------------------------------------
+1. "Hey everyone. Hey. I'm just going"
+2. "Well. Thank you all for getting"
+3. "Right. Well the other reason I"
+4. "the house which he owned outright, um"
+5. "right in various cash accounts and"
+6. "Blood Like Wine publishing, his"
+7. "It's right"
+8. "Sorry, there's, uh. "Likewise the"
+9. "If Harlan was of sound mind when he"
+10. "not legally no, you not liking what"
+11. "Did you just google that?"
+12. "You need a strong case for that."
+13. "The slayer rule obviously does not"
+14. "Not even convicted, even if they're"
+15. "Thank you."
+
+
+CHARACTER: ALICE
+----------------------------------------
+1. "No, I guessed who did it anyway. I'm"
+2. "Marta get your ass up, what the hell"
+3. "I don't even know what that means but"
+4. "Oh yeah it is. Wait so is that true?"
+
+
+CHARACTER: ALICE MOM
+----------------------------------------
+1. "Why it's almost over, what - Now please just turn it off."
+
+
+CHARACTER: BLANC
+----------------------------------------
+1. "I am here at the behest of a client."
+2. "I cannot say, but let me assure you"
+3. "Nearly. Harlan's nurse. She was at"
+4. "May I just - and then I'll recede,"
+5. "Just marvelous. The whole family too."
+6. "But surely Walt runs the"
+7. "No!"
+8. "Did he get "into it" at the party?"
+9. "Ransom, Richard and Linda's son?"
+10. "...but"
+11. "About what?"
+12. "Speaking of getting into it, you were"
+13. "In his study?"
+14. "You see, I spoke with the caterer"
+15. "These were two male voices."
+16. "You tell her. Or I will. Bells"
+17. "Early. Richard said you were there."
+18. "To see Harlan?"
+19. "What were you seeing Harlan about?"
+20. "I'm sorry to press, what kind of mix"
+21. "The method, throat slit. Typical of"
+22. "Harlan Thrombey's nurse, Marta..."
+23. "Marta Cabrera."
+24. "Miss Cabrera, I been doing a little"
+25. "You're paid a flat rate for how many"
+26. "Medical help?"
+27. "Does having a kind heart make you a"
+28. "Yes. Marta we were just discussing"
+29. "Is it true?"
+30. "Really? Is Richard having an affair?"
+31. "A yes or no will do."
+32. "Dear girl I'm sorry. I assumed you"
+33. "Well. And then there is... Joni."
+34. "And if that support was threatened?"
+35. "Miss Cabrera, was Harlan planning on"
+36. "Meg said Harlan pays the school"
+37. "Granted. But she lied. To me. All"
+38. "Walter."
+39. "But there was something else. Harlan"
+40. "You've been very patient my friend,"
+41. "Me. Linda asked who hired me."
+42. "I. Do. Not. Know. An envelope of"
+43. "An envelope of cash."
+44. "There is no other staircase up to"
+45. "Interesting."
+46. "Physical evidence can tell a clear"
+47. "And as we've seen this morning,"
+48. "Ms. Cabrera, we've kept you waiting"
+49. "Well that sounds about right. Thank"
+50. "Mm."
+51. "He knew my father who was a police"
+52. "Here now here? No. I stayed hoping"
+53. "Something is afoot with this whole"
+54. "Harlan's detectives they dig, they"
+55. "It's a novel."
+56. "Neither have I. Nobody has. But I"
+57. "I trust your kind heart. Also you"
+58. "And yet. Be it cruel or comforting,"
+59. "Tomorrow at eight."
+60. "Can your guys digitize it so we can"
+61. "I think it's an unlikely but if they"
+62. "Ten Kenoak. That's a pleasant thing"
+63. "Mud - has it rained the past week?"
+64. "Don't - stop there, don't -"
+65. "No no no no don't - don't step on"
+66. "Best judge of character is a dog."
+67. "You think it'll be like a game show."
+68. "Where's your medical bag?"
+69. "How'd the GO board get knocked over?"
+70. "Let me guess."
+71. "Mr. Drysdale"
+72. "Exception that proves the rule."
+73. "I'm warning you. Ransom said. I'm"
+74. "This looks like a relatively fresh"
+75. "Show me, but don't step on the"
+76. "Off the carpet!"
+77. "No, just traces."
+78. "But that would not explain this."
+79. "Excuse me Mr. Stevens. As to that,"
+80. "No."
+81. "Mr. Stevens, please continue."
+82. "I think heads have to cool a little,"
+83. "Mister Blanc. If you please."
+84. "I have eliminated no suspects."
+85. "Good Morning Mrs. Thrombey."
+86. "What's the cheese?"
+87. "Any surveillance cams?"
+88. "What was still pending from the"
+89. "Blood work?"
+90. "I spoke to Wanetta Thrombey,"
+91. ""Ransom came back" she said. I don't"
+92. "Let's go to the police station, I"
+93. "Strange case from the start. A case"
+94. "Sure."
+95. "Sometimes I stand in the middle of"
+96. "Alright my friend, thank you for the"
+97. "Young Ransom just told Lieutenant"
+98. "I don't think that's a good idea"
+99. "We'll round up the Thrombeys at the"
+100. "You can tell me your whole story on"
+101. "Alright. Are you ready?"
+102. "Is the rest of the family here?"
+103. "I still think this is a bad idea, but"
+104. "To be fair you're a pretty lousy"
+105. "Excuse me. You have not been good to"
+106. "Furthermore it will be my"
+107. "Almost."
+108. "I'm sorry - officer Wagner!"
+109. "Yes but not all of them."
+110. "Indulge me."
+111. "Yes you did, yes he did, yes you are,"
+112. "Why. Was. I. Hired? Why would"
+113. "I was hired before the sealed will"
+114. "But Fran wanted money, ergo she did"
+115. "They would have had no reason to not"
+116. "Not exactly everything though."
+117. "We'll get to that. But first, Mr."
+118. "You're right, let's back up. To the"
+119. "Marta, remind me what Ransom said his"
+120. "And I asked myself - Marta? Why"
+121. "Granted. But it's the only way what"
+122. "Exactly."
+123. "It is the truth. Hand me that vial"
+124. "The correct doses. Yes. But not"
+125. "You knew because there is the"
+126. "I'm sorry Marta. But yes. Harlan"
+127. "A twisted web, and we are not"
+128. "Not a shred no, just as we have no"
+129. "Ah right, we do have that. If you'll"
+130. "But tomorrow brings news not of a"
+131. "Enter Benoit Blanc."
+132. "The body was discovered early the"
+133. "She loved Harlan. She hates Ransom."
+134. "Well voila. The numbers mean nothing"
+135. "She did not. She sent it to Ransom."
+136. "Unless you decide."
+137. "You are not going to give up the"
+138. "You have come this far. Just one"
+139. "It would have worked. If we hadn't"
+140. "Oh yes. Fran, who will confirm this"
+141. "Trooper Wagner, if you would keep Mr."
+142. "Harlan bought this house in the"
+143. "No!"
+144. "From the moment you first set foot in"
+145. "I want you to remember something very"
+146. "I have my own opinion. But I have a"
+
+
+CHARACTER: BLANC MARTA
+----------------------------------------
+1. "Can we - (to Proofroc)"
+
+
+CHARACTER: COP
+----------------------------------------
+1. "Hey! Excuse me ma'am. Are you with"
+
+
+CHARACTER: DONNA JONI
+----------------------------------------
+1. "We're losing our way of life"
+
+
+CHARACTER: ELLIOTT
+----------------------------------------
+1. "Even if that was right, protecting"
+
+
+CHARACTER: FRAN
+----------------------------------------
+1. "Morning Mr Thrombey"
+2. "Shit."
+3. "I don't think he killed himself I"
+4. "Jesus. I'm gonna disappear until the"
+5. "Oh my god Marta, what?"
+6. "Take em whenever you need em -"
+7. "Asshole."
+8. "You"
+9. "...copy... copy"
+10. "...stashed..."
+11. "I knew it. I knew you were a no good"
+12. "I knew you were guilty as shit. Now"
+13. "you... did this..."
+14. "Hugh... did this..."
+
+
+CHARACTER: GREATNANA
+----------------------------------------
+1. "Ransom, are you leaving?"
+2. "Ransom are you leaving?"
+3. "Ransom? Are you back again already?"
+4. "Ransom? Are you back again already?"
+5. "Ransom, you're back!"
+
+
+CHARACTER: HARLAN
+----------------------------------------
+1. "They're not our books, son. They're"
+2. "I've done you a grave disservice all"
+3. "We'll talk about details tomorrow."
+4. "I know my daughter. She'd want to"
+5. "Alan didn't mail it because he caught"
+6. "I'm writing this tuition check, then"
+7. "I know it'll hurt but it's for the"
+8. "Why do men instinctively pull at"
+9. "Oh, Joni."
+10. "If you're going to put that vile shit"
+11. "Elder abuse. I'm calling the AARP."
+12. "It's basically over. My only hope is"
+13. "Fair."
+14. "Tonight was... good."
+15. "No. But I did it. Cut the line on"
+16. "you mean the good stuff?"
+17. "Send me to lala land. Why did I wait"
+18. "Is there a problem?"
+19. "You gave me 100 milligrams of the"
+20. "That's much less. So what happens?"
+21. "Well no pressure. You know that's an"
+22. "From the time of injection, so"
+23. "Marta, listen to me."
+24. "Get you out of this. Think of your"
+25. "Get up."
+26. "Stand here, keep your back to me,"
+27. "Oh yes we just, I just knocked over"
+28. "Yes yes all fine, go to bed Joni."
+29. "Yes. Tomorrow."
+30. "Night night."
+31. "We need to make this so airtight your"
+32. "Don't lie. Tell fragments of the"
+33. "I know I missed something... there's"
+34. "You can and you have to. For me."
+35. "Do what I say and everything's going"
+36. "Not a red dime or word of my work to"
+37. "No. I'm giving it to Marta. All of"
+
+
+CHARACTER: HARLAN MARTA
+----------------------------------------
+1. "Why can't I beat you at this"
+
+
+CHARACTER: HARLAN RANSOM
+----------------------------------------
+1. "I'm sane for the first time I'm going to stop this"
+
+
+CHARACTER: INSIDE THE MANOR
+----------------------------------------
+1. "Unlit and still. Gothic with a theme of antique games,"
+
+
+CHARACTER: JACOB
+----------------------------------------
+1. "Nothing."
+2. "No."
+3. "Liberal snowflake."
+4. "I just heard two things."
+5. "And then there was more shouting, but"
+6. "What about undue influence?"
+
+
+CHARACTER: JACOB WALT
+----------------------------------------
+1. "Anchor baby. Marta! Jacob! And Linda -"
+
+
+CHARACTER: JONI
+----------------------------------------
+1. "Mm. I was married to his son Neil,"
+2. "Flam."
+3. "I forgive you, yes, it's skin care"
+4. "I think Linda was upset. But Harlan"
+5. "If I could - pause - because I, who"
+6. "Wait a minute - I read a tweet about"
+7. "The house?"
+8. "I was. At the house early."
+9. "To see Harlan. Yes."
+10. "It was just a mix up with the payment"
+11. "The school hasn't got the check yet,"
+12. "Harlan. I don't know how this mix up"
+13. "Please you don't understand"
+14. "Just a money wiring issue. With the"
+15. "No, I was just in with the - no."
+16. "I - hi - I heard something, is"
+17. "Everything's alright?"
+18. "Ok. And maybe we can talk tomorrow"
+19. "Love you, Night."
+20. "Ok, people grieve in different ways,"
+21. "Is that where you were all night?"
+22. "Guys! Walt he was in the bathroom..."
+23. "It won't be easy for you but it'll be"
+24. "Can we ask why? Has something"
+25. "No it hasn't changed or no we can't"
+26. "Alan there's a mistake"
+27. "Linda please - Marta, you need to"
+28. "What about the slayer rule?"
+29. "It's if someone is convicted of"
+30. "Detective Blank. You said that the"
+31. "No, this was not him. He loved us,"
+
+
+CHARACTER: KNIVES OUT
+----------------------------------------
+1. "A Murder Mystery by"
+
+
+CHARACTER: LIEUTENANT ELLIOTT
+----------------------------------------
+1. "We are just going to reintroduce"
+2. "So we understand that night the"
+3. "How was that?"
+4. "Right, did all three of you show up"
+5. "Okay and you and your husband Richard"
+6. "Sorry. Right."
+7. "Just like your dad. You two were very"
+8. "I don't know, do they?"
+9. "Seems like all his kids are self made"
+10. "For the record, I'm speaking to Walt"
+11. "You live in town, right? You guys"
+12. "So the night went well?"
+13. "So we are with Joni Thrombey, Harlan"
+14. "And you remained close to the"
+15. "Sorry, the Nugget of?"
+16. "Ah! Yeah Flam, right, your skin care"
+17. "You left his party early?"
+18. "Right. You two arrived together to"
+19. "Just some follow up questions, just"
+20. "None of us think that, this is pro"
+21. "This is Benoit Blanc."
+22. "Yes. Mr. Blanc is a private"
+23. "Mr. Blanc is not with the police"
+24. "Why don't we take a breather."
+25. "Maybe I'm a victim of my own"
+26. "Dramatic. But look around. The guy"
+27. "Blanc."
+28. "Even if it's true... you ok?"
+29. "Ok don't answer that if you're going"
+30. "An allowance as a motive, Blanc. She"
+31. "Three?"
+32. "I see where you are going with this."
+33. "Yes, please just wait inside but stay"
+34. "Who?"
+35. "So who hired you?"
+36. "We know, the party broke up at 11:30."
+37. "And that's it. Everyone's stories"
+38. "No. Just the creaky one."
+39. "Except it was a suicide. Harlan hit"
+40. "What?"
+41. "What medication did he get?"
+42. "Anything unusual about his demeanor?"
+43. "Can we see the actual TAPE?"
+44. "Awesome. Blanc the grounds are"
+45. "Any luck with - whatshisname?"
+46. "Alright, Wagner let's get the boys on"
+47. "They're doing the will reading at"
+48. "Hugh Drysdale?"
+49. "I'm Lieutenant Elliott, this is"
+50. "Blanc, anything you need to ask him?"
+51. "Depending on when it was last"
+52. "He's gently requesting, I'm ordering."
+53. "Five AM, security systems here was"
+54. "And speaking of security, the"
+55. "The report on the blood work."
+56. "That was the dumbest car chase of all"
+57. "Mr. Drysdale, come with us please."
+58. "What - with - what?"
+59. "Blanc c'mon, what's all this Drama."
+60. "Blanc I understand that this is"
+61. "Someone fishing for any crime that"
+62. "Did someone in the family see Marta"
+63. "Hot damn."
+64. "Benny look I hear what you are saying"
+
+
+CHARACTER: LIEUTENANT ELLIOTT TROOPER WAGNER
+----------------------------------------
+1. "I don't do much fiction - BIG fan. Big."
+2. "Whoa! Oh my god!"
+3. "Joni? Joni?!"
+
+
+CHARACTER: LINDA
+----------------------------------------
+1. "How you doing kiddo."
+2. "Ueuh. The funeral helped. I guess."
+3. "Alright I'll go first. I'm assuming"
+4. "Thank you that means a lot."
+5. "Yes."
+6. "The party? Pre my dad's death? It"
+7. "N...o, Richard came early to help the"
+8. "It's my company."
+9. "I built my business from the ground"
+10. "We had our own secret way of"
+11. "you know, Dad's paying for her"
+12. "Mr. Blanc, I know who you are, I"
+13. "Who?"
+14. "Thank you."
+15. "Well."
+16. "Are you baiting me, Detective? You"
+17. "Joni. You haven't seen Richard have"
+18. "I was just thinking about Dad's"
+19. "Oh god don't."
+20. "Leave the poor girl alone."
+21. "Walt, what?"
+22. "Alright! Enough. Jacob, we get"
+23. "Ransom? What's this mean?"
+24. "I think it might be the best thing"
+25. "What?"
+26. "No."
+27. "No no no no Alan this can't be legal,"
+28. "Alan take that piece of paper and"
+29. "No, we need to talk and we need to"
+30. "You little bitch. Did you know about"
+
+
+CHARACTER: LINDA WALT
+----------------------------------------
+1. "Gotten her hooks into him Somehow or something"
+
+
+CHARACTER: MARTA
+----------------------------------------
+1. "Alice you can keep watching your show"
+2. "It's Harlan's son."
+3. "Not very good. Alone, lots of just,"
+4. "Thank you."
+5. "Hi Linda. How are you?"
+6. "...Cabrera"
+7. "Yeah, I don't work for a VNA. Harlan"
+8. "I started at 15, but slowly he..."
+9. "He needed a friend."
+10. "Who told you that?"
+11. "Yes. It's something that I have had"
+12. "What?"
+13. "Heh - Richard? - affair? Heh."
+14. ".....no"
+15. "I'm just going to go get some Scope"
+16. "What's up?"
+17. "I..."
+18. "Can I wait inside? I don't feel like"
+19. "Up up nooooo no not tonight, no"
+20. "Take your goddamn medicine and go to"
+21. "Alright old man. 8x8 game. You"
+22. "Don't make me get the belt."
+23. "Meds then beds."
+24. "How was tonight?"
+25. "Because I know you weren't looking"
+26. "I guess we will. Hey. Old man."
+27. "Yeah but just a tiny bit."
+28. "Oh my god."
+29. "This is what I just gave you 100"
+30. "Lets not call it that right now -"
+31. "I give you an emergency shot of"
+32. "You'll feel symptoms in five. Sweats,"
+33. "Yes! Naloxone yes it comes with the"
+34. "What do you want to do?"
+35. "My mom...?"
+36. "What do you want me to do?"
+37. "God it's midnight already."
+38. "Wait... was it before or after?"
+39. "No, he said - before? Was it?"
+40. "Shit..."
+41. "You've gotta be kidding me."
+42. "Harlan this is - I - this is crazy -"
+43. "Harlan I can't lie I'll puke"
+44. "I took him upstairs. We played our"
+45. "Since his injury I've been giving him"
+46. "No."
+47. "No I'm technically working. Thanks."
+48. "God my heart won't stop, I can't -"
+49. "What does that mean?"
+50. "Wah ha. Detective. You're still here?"
+51. "Did you know Harlan?"
+52. "So that's why you're here?"
+53. "Uh?"
+54. "So you're... going to keep digging."
+55. "Gravity's Rainbow."
+56. "I know. I haven't read it."
+57. "What but - why me?"
+58. "You want my insight into this family?"
+59. "Always?"
+60. "I can't."
+61. "Harlan I have to get you help -"
+62. "Everything's going to be ok. I"
+63. "I got it."
+64. "What?"
+65. "I can't hear you, what?"
+66. "What?"
+67. "Hey boys, easy. Hey. Hey."
+68. "I've never been to a will reading."
+69. "I... don't know - I left it here, I"
+70. "We were just goofing around."
+71. "What was that about will readings"
+72. "You heard Ransom in there, it's the"
+73. "Footprints?"
+74. "I - I have no idea why he - I just"
+75. "This is a nightmare."
+76. "Why"
+77. "Well Ransom how about it had more to"
+78. "Did he tell you anything?"
+79. "What makes you think that"
+80. "You bastard."
+81. "I know, just saying it it sounds"
+82. "I know you did."
+83. "This isn't you. You could turn me in"
+84. "Meg"
+85. "Yeah are you?"
+86. "What do you mean?"
+87. "What do you think I should do?"
+88. "No, no. I won't let that happen."
+89. "Mud. Tracks upstairs - where I broke"
+90. "No."
+91. "Maybe, I dunno."
+92. "Is that here?"
+93. "Oh my god."
+94. "I don't like it either mom. I'm"
+95. "Hey."
+96. "Understandable"
+97. "I haven't even looked at all this"
+98. "This is what Harlan wanted."
+99. "...with my mother."
+100. "You're saying even if it came to"
+101. "Ok. Good."
+102. "Cause Harlan gave me all your"
+103. "It's my medical bag tag. They have"
+104. "So I'm screwed! How do you know all"
+105. "Holy shit. This is insane."
+106. "...nothing...I didn't check my email."
+107. "Yeah."
+108. "You regret helping me yet?"
+109. "This is stupid, I'm pulling over"
+110. "Aaauuuuuawwwaaagghhhh"
+111. "What's going on?"
+112. "Yes."
+113. "Do you mind if I stop for a second. I"
+114. "I'll just be a few minutes."
+115. "Hello?"
+116. "Me? Fran it's Marta, you called me"
+117. "What?"
+118. "This is over. People are getting"
+119. "But why did Fran take my morphine?"
+120. "No, I need to do it. I won't do any"
+121. "For the arrest after."
+122. "...said it was stashed, the copy, and"
+123. "It's ok, Meg. I understand. Believe"
+124. "I know where the tox report is."
+125. "She practically told me where it was."
+126. "Um. You guys have always been good"
+127. "What?"
+128. "What the hell? I want to come clean,"
+129. "Blanc. I told Ransom, Ransom told"
+130. "Fran? She was blackmailing me, she"
+131. "Trooper Wagner??"
+132. "It's alright Ransom, I'm glad you"
+133. "Is this about what Greatnana told"
+134. "Harlan told him that I could beat him"
+135. "Clarity. That he has to make do for"
+136. "No, no that's impossible."
+137. "If he did that, if the meds were"
+138. "I... just knew"
+139. "Then Harlan was..."
+140. "Oh god that movie she told me about,"
+141. "She has a cousin - she told me, she"
+142. "So why did she send it to me?"
+143. "She said -"
+144. "She didn't say "you did this," she"
+145. "Hugh did this. Cause you made the"
+146. "Yes."
+147. "That's right, Fran's dead."
+148. "Can I ask. At what point did you"
+149. "Oh my god."
+150. "I should help them. Right?"
+
+
+CHARACTER: MARTA BLANC
+----------------------------------------
+1. "Good. Wait god I hope he"
+2. "What? No, Blanc - Thank you all for coming"
+
+
+CHARACTER: MARTA HARLAN
+----------------------------------------
+1. "Up up up up - you got it? I got it. Up up up I got"
+2. "It's late, I had champagne It's my birthday, we are -"
+3. "Harlan we need to - are you Stop. Stop stop, Marta"
+4. "What are you doing are you Marta it's too late it is"
+5. "Oh god But we're not going to let"
+
+
+CHARACTER: MARTA MEG
+----------------------------------------
+1. "It's ok, sorry. No. It's not ok. What the"
+2. "I'm sorry I'm sorry I'm Stop saying you're sorry"
+
+
+CHARACTER: MARTA RANSOM
+----------------------------------------
+1. "He wanted you to build"
+2. "Oh my god oh my god oh my Are you flooring it?"
+3. "Ok. I'm all just pure"
+
+
+CHARACTER: MARTA WALT
+----------------------------------------
+1. "Well. Walt I want you to"
+
+
+CHARACTER: MEG
+----------------------------------------
+1. "Hey! Her name is Marta, she was"
+2. "Anything you need, you're part of"
+3. "He's an alt-right troll dipshit"
+4. "Granddad gives my mom a yearly"
+5. "To see some friends at Smith."
+6. "Whoa hey, c'mere, hey. What do you,"
+7. "Thanks Fran."
+8. "Who's going to open a clock?"
+9. "Did you tell Marta yet? What we all"
+10. "No."
+11. "We all think you deserve something."
+12. "Hey asshole. Not her name, not her"
+13. "Swatting Syrian refugees."
+14. "Alt right troll."
+15. "'Boinking?'"
+16. "Mom. If Granddad wanted Marta to"
+17. "Thanks."
+18. "I'm sorry, I'm so sorry I told them"
+19. "God I am so raiding Fran's stash"
+
+
+CHARACTER: MEG JONI
+----------------------------------------
+1. "Trust fund prick. Alright. Guys."
+2. "Mom if it's what granddad No this is a mistake, this"
+
+
+CHARACTER: MOM
+----------------------------------------
+1. "Alice, turn that off now."
+2. "I know."
+3. "Oh my god Marta what is all this,"
+4. "Lawyers were here, very big lawyers"
+
+
+CHARACTER: MR PROOFROC
+----------------------------------------
+1. "Fifty years I worked this estate, you"
+2. "Oh sure."
+3. "I record it SSLP, gets eight hours"
+4. "Hold the play button down and press"
+
+
+CHARACTER: NIGHT OF THE PARTY
+----------------------------------------
+1. "Harlan and Ransom go off together to have a private talk,"
+
+
+CHARACTER: PHONE
+----------------------------------------
+1. "911, what is your emergency?"
+
+
+CHARACTER: RANSOM
+----------------------------------------
+1. "Ransom. Call me Ransom, my middle"
+2. "Uh huh."
+3. "You gonna run me in? I don't feel"
+4. "The hell anyway is this arrangement?"
+5. "CSI KFC?"
+6. "Meg. How's your SJW degree coming?"
+7. "We gotta do this more often."
+8. "Father?"
+9. "Yes."
+10. "Thanks - my mother, folks."
+11. "As a matter of fact - Eat shit, hows"
+12. "I think this could be the best thing"
+13. "Ok seriously though, what the hell?"
+14. "Could we get an extra bowl please?"
+15. "Uh huh. So why."
+16. "Why. Hey, this is everything. There"
+17. "Yeah."
+18. "Just I wasn't getting a cent."
+19. "I don't think it. I know it. Cause"
+20. "Marta. Tell me everything."
+21. "Heuh."
+22. "I always thought I was the only one"
+23. "At the party, that night, my last"
+24. "Because fuck my family. They don't"
+25. "Ok then. Did the detective find"
+26. "Identifiable prints?"
+27. "Good. Ok. Good. Hey. You've just"
+28. "Well I don't know what this is from"
+29. "OK, but this is just a photocopy of"
+30. "I was Harlan's research assistant."
+31. "Marta this means that the blackmailer"
+32. "That's it. 1209 Columbus Road, 10am."
+33. "You know what this means right? If"
+34. "I regret not taking the beamer."
+35. "If you miss your shot at getting that"
+36. "What?"
+37. "Marta I'm sorry. I told them"
+38. "Why I hired you?"
+39. "You can't be serious."
+40. "You are not this crazy. You would"
+41. "Ha. To your Brazilian nurse are you"
+42. "That is some heavy duty conjecture."
+43. "Marta c'mon."
+44. "You have her confession!"
+45. "...you're not going to give up the"
+46. "You've come this far!"
+47. "Yes, you were right Fran."
+48. "Fran's alive?"
+49. "I want to say this just to you, not"
+50. "Oh shut up Blanc, shut up! Shut up"
+51. "Well. In for a penny..."
+52. "Shit"
+
+
+CHARACTER: RANSOM MEG
+----------------------------------------
+1. "Up your ass Joni, you've got"
+
+
+CHARACTER: RICHARD
+----------------------------------------
+1. "So. How you doing kiddo."
+2. "Everyone idolizes their dad, right?"
+3. "Very much not, don't know why I said"
+4. "Sure."
+5. "Jeeesus! Donna, you alright?"
+6. "The boy's literally a Nazi"
+7. "Ok. So who the fuck is that?"
+8. "Benoit Blanc?"
+9. "Fine. Are we getting there?"
+10. "Marta?"
+11. ""Immigrants - we get the job done.""
+12. "I saw it at the public."
+13. "Walt doesn't run shit! There are no"
+14. "Oh yeah! Drives Walt nuts, cause"
+15. "Oh my god."
+16. "He was there, we must have spoke."
+17. "I don't think so."
+18. "I don't, a screaming match? No."
+19. "That's none of your business, Harlan."
+20. "Yes. I know - yes, ha. So. Harlan"
+21. "Son of a bitch."
+22. "For breaking the law. You're going"
+23. "No, Marta your family came from"
+24. "No Marta do you agree, I'd like you"
+25. "What's that supposed to mean?"
+26. "The hell were you doing in the"
+27. "It means your son's a little creep."
+28. "Joylessly masturbating to pictures of"
+29. "Son."
+30. "Did Harlan tell you he was cutting"
+31. "Then he's done what we weren't strong"
+32. "Linda -"
+33. "Linda!"
+34. "What the hell is the slayer rule?"
+35. "Marta?"
+36. "You're full of shit, I don't trust"
+37. "There's one answer to this: she can"
+38. "Ah. Ok, has she come to her senses?"
+39. "Is anybody else confused?"
+
+
+CHARACTER: RICHARD HARLAN
+----------------------------------------
+1. "I'm warning you once, don't She deserves to know, you're"
+
+
+CHARACTER: RICHARD JONI
+----------------------------------------
+1. "I don't like him no he's an"
+2. "Nobody's saying that isn't"
+
+
+CHARACTER: RICHARD LINDA
+----------------------------------------
+1. "Would a sound person do The very action speaks to"
+
+
+CHARACTER: RICHARD WALT
+----------------------------------------
+1. "What the genuine shit That can't be right it's"
+
+
+CHARACTER: SALLY
+----------------------------------------
+1. "...the house"
+2. "sixty million"
+3. "Blood Like Wine"
+
+
+CHARACTER: SCREEN SCRIPT
+----------------------------------------
+1. "The grounds of a New England manor. Pre-dawn misty."
+
+
+CHARACTER: SWEET BEANS
+----------------------------------------
+1. "Marta starts - did he spot it? No - he's come face to face"
+
+
+CHARACTER: TROOPER WAGNER
+----------------------------------------
+1. "Excuse me, we're ready for you now,"
+2. "We'll do our best ma'am."
+3. "We're sorry for your loss."
+4. "Oh Hamilton!"
+5. "Miss Cabrera, you can just wait"
+6. "And she bumps him off for the"
+7. "An envelope? That worked?"
+8. "So I guess we can rule out Ransom, he"
+9. "It's like a Japanese horror movie."
+10. "I'm sure we can."
+11. "You know all these statues that you"
+12. "I'll take that, thanks ma'am."
+13. "Ransom. No, but we have an address."
+14. "Ugh this mud, my boots are going to"
+15. "They must have taken it in as"
+16. "Sir excuse me, we are officers of the"
+17. "It's the trick window! From "A Kill"
+18. "Get the family out?"
+19. "Deadly by Surprise."
+20. "That means she was lying!"
+
+
+CHARACTER: WALT
+----------------------------------------
+1. "Yeah. It's my - it's our, it's the"
+2. "Dad said the plots just popped into"
+3. "Uh. We all got here around 8."
+4. "Kids today, with the internet,"
+5. "Passing the torch."
+6. "So by "manner of death" you mean if"
+7. "Dad you put me in charge of our books"
+8. "What?"
+9. "Dad. Are you firing me?"
+10. "We talked, we had a business"
+11. "Look we love Ransom, he is a good"
+12. "But he's always been the black sheep"
+13. "Dad, go to bed!"
+14. "Dad, go to bed."
+15. "Marta. We've talked it over, and"
+16. "We talked it over and the whole"
+17. "Financially, we want to help you out."
+18. "Funny Ransom, you skipped the funeral"
+19. "It's funny you're here at all. Why"
+20. "He knows what it means."
+21. "Jacob was in that bathroom the night"
+22. "I don't know what any of that means"
+23. "Oh MY son's a creep?"
+24. "He was in the bathroom"
+25. "Ok you wanna go?"
+26. "It means dad finally came to his"
+27. "No."
+28. "No. What?"
+29. "Yes! Undue influence!"
+30. "If Marta was manipulating dad"
+31. "Hey."
+32. "You're still very important to all of"
+33. "it isn't from us. Maybe just local"
+34. "Well. Harlan has put you in a very"
+35. "This isn't about who - you're missing"
+36. "Yes. The right lawyers, none of"
+37. "Ok?"
+38. "Marta."
+39. "She's standing right there Richard"
+40. "What?"
+
+
+CHARACTER: WALT ALAN
+----------------------------------------
+1. "Like OJ Like OJ, yes. But Harlan"
+
+
+CHARACTER: WALT BLANC
+----------------------------------------
+1. "What? Richard said what?"
+2. "In the living room. I think maybe, if we"
+
+
+CHARACTER: WALT HARLAN
+----------------------------------------
+1. "The Netflix guys, their"
+
+
+CHARACTER: WALT JONI
+----------------------------------------
+1. "Yes Marta, did dad discuss You need to tell us"
+
+
+CHARACTER: WALT LINDA
+----------------------------------------
+1. "DO YOU WANT DINNER, NANA? Walt she's fine, she ate the"
+2. "She knows it's what she"
+
+
+CHARACTER: WALT MEG
+----------------------------------------
+1. "No, not yet, is now a good Yes a very good time. Right"
+
+
+CHARACTER: WALT RICHARD
+----------------------------------------
+1. "We're his family, Alan he"
+2. "This isn't what dad wanted, Jesus don't mob the girl,"
+
+
