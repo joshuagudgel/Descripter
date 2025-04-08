@@ -14,7 +14,7 @@ Known Issues:
 - Dialogue appears to only be the first line on each dialogue block.
 - Movie scripts are an initial guide for actors to follow. These lines are not exactly what is said in each movie.
 
-"""
+'''text
 descripter/
 ├── movie_script.py # Core script parser class
 ├── generate_dialogue_file.py # Script to generate dialogue text files
@@ -25,28 +25,28 @@ descripter/
 │ └── knivesout_dialogue.txt
 ├── .gitignore # Git ignore file
 └── README.md # Project documentation
-"""
+'''
 
 Installation
 
 1. Clone the repository:
-   """
+   '''text
    git clone https://github.com/joshuagudgel/Descripter.git
    cd Descripter
-   """
+   '''
 2. Create a virtual environment
-   """
+   '''text
    python -m venv venv
    source venv/bin/activate # On Windows: venv\Scripts\activate
-   """
+   '''
 3. Install dependencies:
-   """
+   '''
    pip install pdfplumber
-   """
+   '''
 
 Usage
 Process a movie script
-"""
+'''text
 from movie_script import MovieScript
 from pathlib import Path
 
@@ -65,12 +65,12 @@ for character, lines in script.dialogue.items():
 print(f"\n{character}:")
 for line in lines:
 print(f" - {line}")
-"""
+'''
 
 Generate a dialogue file
-"""
+'''text
 python generate_dialogue_file.py
-"""
+'''
 
 License
 MIT License
